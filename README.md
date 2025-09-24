@@ -1,1 +1,23 @@
-# Java-Problem-Solutions
+# Java Problem Solutions
+
+This repository contains Java solutions for different exercises.  
+Each exercise has its own folder inside the `/solutions` directory.
+
+---
+
+## 📂 List of Exercises
+
+1. **Exercise 1**  
+   Task: Create a function to check if a number is odd or even.  
+   👉 [View Solution](./solutions/Exercise%201)
+
+---
+
+## 📖 How to Use
+- Navigate to the exercise you want to explore.
+- Open the folder to see the Java solution file(s).
+- Run the Java file locally to test.
+
+---
+
+✍️ New exercises and solutions will be added regularly!
