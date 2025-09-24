@@ -1,7 +1,7 @@
 # Java Problem Solutions
 
-This repository contains Java solutions for different exercises.  
-Each exercise has its own folder inside the `/solutions` directory.
+This repository contains Java com.codeahmad.solutions for different exercises.  
+Each exercise has its own folder inside the `/com.codeahmad.solutions` directory.
 
 ---
 
@@ -20,4 +20,4 @@ Each exercise has its own folder inside the `/solutions` directory.
 
 ---
 
-✍️ New exercises and solutions will be added regularly!
+✍️ New exercises and com.codeahmad.solutions will be added regularly!
