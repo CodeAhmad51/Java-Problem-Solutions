@@ -9,7 +9,7 @@ Each exercise has its own folder inside the `/com.codeahmad.solutions` directory
 
 1. **Exercise 1**  
    Task: Create a function to check if a number is odd or even.  
-   👉 [View Solution]("./solutions/exercise_1")
+   👉 [View Solution]("solutions/exercise_1")
 
 ---
 
