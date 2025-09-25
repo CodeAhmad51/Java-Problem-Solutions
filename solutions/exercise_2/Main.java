@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class Main {
 
     public static BigInteger factorial(int n){
-        long  a = n ;
+
         BigInteger  result = BigInteger.ONE;
-        for (int i = 1; i <a; i++) {
+        for (int i = 1; i <=n; i++) {
             result =  result.multiply(BigInteger.valueOf(i));
 
         }
